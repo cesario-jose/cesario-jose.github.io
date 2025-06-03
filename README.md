@@ -1,5 +1,3 @@
 # Bio
-I am currently an Agronomy Ph.D. Candidate at the University of  Nebraska-Lincoln (UNL). My research focuses on evaluating the economic and environmental implications of nitrogen management technologies. My project involves using remote sensing and crop model-based decision support tools to enhance nitrogen recommendations for wheat producers in  Nebraska. Committed to sustainable agriculture, I strive to bridge scientific research with practical solutions to improve farming efficiency and environmental stewardship. I anticipate graduating in  December 2024 and am seeking job opportunities as a research agronomist in the industry.
-
-# Research Interests
+Agronomist with a Ph.D. in Agronomy from the University of Nebraska-Lincoln, specializing in precision ag and nutrient management. My research focused on leveraging remote sensing and crop modeling tools to optimize nitrogen recommendations for producers in Nebraska. Currently serving as Remote Sensing Data Coordinator at Practical Farmers of Iowa, I am dedicated to advancing sustainable agriculture by connecting research with practical solutions to enhance farming efficiency and environmental stewardship.
 
